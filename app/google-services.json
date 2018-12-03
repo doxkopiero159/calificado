@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "443094541667",
+    "firebase_url": "https://calificado-1ce5b.firebaseio.com",
+    "project_id": "calificado-1ce5b",
+    "storage_bucket": "calificado-1ce5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443094541667:android:2f9966d9481c0e09",
+        "android_client_info": {
+          "package_name": "com.example.alumno.calificado"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443094541667-sdcmsoqspp17f9q7mt7a51jbninfvkog.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alumno.calificado",
+            "certificate_hash": "b700893c0c5335b6e9958c0b41d1b3c7604fffcd"
+          }
+        },
+        {
+          "client_id": "443094541667-l2uhic9apqumk8iseslonmqdu94p8ckb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhwMbpgbiGROZk_XWZf2zDMYewHargo04"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443094541667-l2uhic9apqumk8iseslonmqdu94p8ckb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
