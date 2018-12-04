@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "443094541667-krbi11di6qblgnf8nlf5e0pbeqjj3h7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alumno.calificado",
+            "certificate_hash": "ea060158c65096fe4d57641bf9faf04a4b7a816f"
+          }
+        },
+        {
           "client_id": "443094541667-l2uhic9apqumk8iseslonmqdu94p8ckb.apps.googleusercontent.com",
           "client_type": 3
         }
